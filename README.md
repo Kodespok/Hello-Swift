@@ -1,3 +1,3 @@
 # Hello Swift
 
-![Hello Git](./Media/HeaderS.png)
+![Hello Swift](./Media/HeaderS.png)
